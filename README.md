@@ -1,5 +1,5 @@
 # golang-htmx
-basic go app with gin and htmx
+basic go app with gin, htmx and bootstrap 5
 
 ## Run
 Clone repo
